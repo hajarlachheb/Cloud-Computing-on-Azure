@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "CognitiveServicesUrlBase": "https://myfacialapi.cognitiveservices.azure.com/",
+    "CognitiveServicesKey": "d89f5eb297224e6bad8e4a4d343389f0"
+  }
+}
